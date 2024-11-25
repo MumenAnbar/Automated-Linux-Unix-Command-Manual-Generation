@@ -1,0 +1,22 @@
+######################################################################################################################
+
+>who
+__________________
+
+DESCRIPTION
+       Print information about users who are currently logged in.
+
+__________________
+
+Version History:    who (GNU coreutils) 8.32
+__________________
+
+Example: 
+	>who
+	mumen    :1           2024-01-20 21:15 (:1)
+
+__________________
+
+Related Commands:          whoopsie-preferences,whoopsie,who,whoami,whoopsie-preferences,whoopsie,who,whoami,
+__________________
+

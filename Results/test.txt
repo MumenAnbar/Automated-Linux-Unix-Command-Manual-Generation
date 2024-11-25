@@ -1,0 +1,23 @@
+######################################################################################################################
+
+>test
+__________________
+
+DESCRIPTION
+       Exit with the status determined by EXPRESSION.
+
+__________________
+
+Version History:    
+__________________
+
+Example: 
+	>test 'Ali' = 'ali'
+	 1
+	
+
+__________________
+
+Related Commands:          test,alsabat-test,l2test,hp-testpage,rctest,gst-tester-1.0,test,grub-fstest,speaker-test,cupstestppd,alsabat-test,l2test,hp-testpage,rctest,gst-tester-1.0,test,grub-fstest,speaker-test,cupstestppd,
+__________________
+

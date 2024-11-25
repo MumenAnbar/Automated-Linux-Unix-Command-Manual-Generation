@@ -1,0 +1,22 @@
+######################################################################################################################
+
+>cut
+__________________
+
+DESCRIPTION
+       Print selected parts of lines from each FILE to standard output.
+
+__________________
+
+Version History:    cut (GNU coreutils) 8.32
+__________________
+
+Example: 
+	>echo This is an Example on cut command | cut -d ' ' -f1 
+	This
+
+__________________
+
+Related Commands:          xcutsel,pamcut,cut,pnmcut,xcutsel,pamcut,cut,pnmcut,
+__________________
+

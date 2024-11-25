@@ -1,0 +1,22 @@
+######################################################################################################################
+
+>mv
+__________________
+
+DESCRIPTION
+       Rename SOURCE to DEST, or move SOURCE(s) to DIRECTORY.
+
+__________________
+
+Version History:    mv (GNU coreutils) 8.32
+__________________
+
+Example: 
+	>mv File1.txt File2.txt
+	File1.txt will be renamed to File2.txt
+
+__________________
+
+Related Commands:          mv,mv,
+__________________
+

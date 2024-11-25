@@ -1,0 +1,27 @@
+######################################################################################################################
+
+>ps
+__________________
+
+DESCRIPTION
+       ps displays information about a selection of the active processes.  If you want a repetitive update of the selection and the displayed information, use top
+       instead.
+
+__________________
+
+Version History:    ps from procps-ng 3.3.17
+__________________
+
+Example: 
+	>ps
+	    PID TTY          TIME CMD
+	  18641 pts/0    00:00:00 bash
+	  26870 pts/0    00:00:00 bash
+	  27376 pts/0    00:00:00 bash
+	  27378 pts/0    00:00:00 ps
+
+__________________
+
+Related Commands:          cupsd,cupsreject,kerneloops,cupsctl,getpcaps,cupsdisable,pptpsetup,cupsfilter,cupsaccept,cups-browsed,e2mmpstatus,pppstats,capsh,cupsenable,pbmtoepson,pstree.x11,psfgettable,pnmpsnr,groups,ps2ascii,whoopsie-preferences,grops,zipsplit,lpstat,pstree,psfaddtable,pdftops,pnmtops,psfxtable,ps2pdf12,whoopsie,hipstopgm,uclampset,pbmtoepsi,dpkg-checkbuilddeps,psicc,psfstriptable,pstopnm,ps2pdfwr,foo2zjs-icc2ps,appstreamcli,foo2zjs-pstops,imagetops,ps2pdf13,pbmtextps,psidtopgm,ps2ps2,ps2pdf,pbmpscale,mapscrn,pbmtopsg3,ps2pdf14,dpkg-shlibdeps,pdf2ps,ps,pslog,unzipsfx,eps2eps,cupstestppd,ps2epsi,ps2txt,ps2ps,kerneloops-submit,cupsd,cupsreject,kerneloops,cupsctl,getpcaps,cupsdisable,pptpsetup,cupsfilter,cupsaccept,cups-browsed,e2mmpstatus,pppstats,capsh,cupsenable,pbmtoepson,pstree.x11,psfgettable,pnmpsnr,groups,ps2ascii,whoopsie-preferences,grops,zipsplit,lpstat,pstree,psfaddtable,pdftops,pnmtops,psfxtable,ps2pdf12,whoopsie,hipstopgm,uclampset,pbmtoepsi,dpkg-checkbuilddeps,psicc,psfstriptable,pstopnm,ps2pdfwr,foo2zjs-icc2ps,appstreamcli,foo2zjs-pstops,imagetops,ps2pdf13,pbmtextps,psidtopgm,ps2ps2,ps2pdf,pbmpscale,mapscrn,pbmtopsg3,ps2pdf14,dpkg-shlibdeps,pdf2ps,ps,pslog,unzipsfx,eps2eps,cupstestppd,ps2epsi,ps2txt,ps2ps,kerneloops-submit,
+__________________
+

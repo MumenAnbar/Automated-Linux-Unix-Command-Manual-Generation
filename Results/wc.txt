@@ -1,0 +1,23 @@
+######################################################################################################################
+
+>wc
+__________________
+
+DESCRIPTION
+       Print  newline, word, and byte counts for each FILE, and a total line if more than one FILE is specified.  A word is a non-zero-length sequence of characters de‐
+       limited by white space.
+
+__________________
+
+Version History:    wc (GNU coreutils) 8.32
+__________________
+
+Example: 
+	>wc Examples.sh
+	 109 1102 6750 Examples.sh
+
+__________________
+
+Related Commands:          iwconfig,pwck,hwclock,shadowconfig,pwconv,wc,showconsolefont,iwconfig,pwck,hwclock,shadowconfig,pwconv,wc,showconsolefont,
+__________________
+

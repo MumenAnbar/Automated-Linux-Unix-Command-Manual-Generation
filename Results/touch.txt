@@ -1,0 +1,22 @@
+######################################################################################################################
+
+>touch
+__________________
+
+DESCRIPTION
+       Update the access and modification times of each FILE to the current time.
+
+__________________
+
+Version History:    touch (GNU coreutils) 8.32
+__________________
+
+Example: 
+	>touch AppOnTouch.txt
+	A new text File will be created in current directory
+
+__________________
+
+Related Commands:          touch,touch,
+__________________
+

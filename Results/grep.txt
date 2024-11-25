@@ -1,0 +1,62 @@
+######################################################################################################################
+
+>grep
+__________________
+
+DESCRIPTION
+       grep  searches  for  PATTERNS  in each FILE.  PATTERNS is one or more patterns separated by newline characters, and grep prints each line that matches a pattern.
+       Typically PATTERNS should be quoted when grep is used in a shell command.
+
+__________________
+
+Version History:    grep (GNU grep) 3.7
+__________________
+
+Example: 
+	>compgen -c | grep 'grep' 
+	lzfgrep
+	lzgrep
+	xzegrep
+	zgrep
+	zfgrep
+	zstdgrep
+	zegrep
+	bzegrep
+	fgrep
+	grep
+	zipgrep
+	ptargrep
+	bzgrep
+	egrep
+	rgrep
+	xzgrep
+	lzegrep
+	xzfgrep
+	pgrep
+	bzfgrep
+	lzfgrep
+	lzgrep
+	xzegrep
+	zgrep
+	zfgrep
+	zstdgrep
+	zegrep
+	bzegrep
+	fgrep
+	grep
+	zipgrep
+	ptargrep
+	bzgrep
+	egrep
+	rgrep
+	xzgrep
+	lzegrep
+	xzfgrep
+	pgrep
+	bzfgrep
+
+__________________
+
+Related Commands:          lzfgrep,lzgrep,xzegrep,zgrep,zfgrep,zstdgrep,zegrep,bzegrep,fgrep,grep,zipgrep,ptargrep,bzgrep,egrep,rgrep,xzgrep,lzegrep,xzfgrep,pgrep,bzfgrep,lzfgrep,lzgrep,xzegrep,zgrep,zfgrep,zstdgrep,zegrep,bzegrep,fgrep,grep,zipgrep,ptargrep,bzgrep,egrep,rgrep,xzgrep,lzegrep,xzfgrep,pgrep,bzfgrep,
+__________________
+

@@ -1,0 +1,22 @@
+######################################################################################################################
+
+>rm
+__________________
+
+DESCRIPTION
+       This manual page documents the GNU version of rm.  rm removes each specified file.  By default, it does not remove directories.
+
+__________________
+
+Version History:    rm (GNU coreutils) 8.32
+__________________
+
+Example: 
+	>rm AppOn_rm.txt
+	target text file will be deleted
+
+__________________
+
+Related Commands:          rmmod,apparmor_status,rmt-tar,apparmor_parser,rmt,cracklib-format,hdparm,thermald,usermod,gnome-terminal,ppmcolormask,lxterm,fusermount,gnome-terminal.wrapper,dirmngr-client,ntfsusermap,ppmnorm,hp-firmware,pnmcolormap,pgmnorm,koi8rxterm,uxterm,rmdir,arm2hpdl,gnome-terminal.real,ipcrm,colrm,xterm,colormgr,dirmngr,x-terminal-emulator,pnmnorm,lprm,fusermount3,setterm,rm,rmmod,apparmor_status,rmt-tar,apparmor_parser,rmt,cracklib-format,hdparm,thermald,usermod,gnome-terminal,ppmcolormask,lxterm,fusermount,gnome-terminal.wrapper,dirmngr-client,ntfsusermap,ppmnorm,hp-firmware,pnmcolormap,pgmnorm,koi8rxterm,uxterm,rmdir,arm2hpdl,gnome-terminal.real,ipcrm,colrm,xterm,colormgr,dirmngr,x-terminal-emulator,pnmnorm,lprm,fusermount3,setterm,rm,
+__________________
+

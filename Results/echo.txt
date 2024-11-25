@@ -1,0 +1,22 @@
+######################################################################################################################
+
+>echo
+__________________
+
+DESCRIPTION
+       Echo the STRING(s) to standard output.
+
+__________________
+
+Version History:    --version
+__________________
+
+Example: 
+	>echo This is an example on echo command
+	This is an example on echo command
+
+__________________
+
+Related Commands:          echo,lessecho,echo,lessecho,echo,
+__________________
+

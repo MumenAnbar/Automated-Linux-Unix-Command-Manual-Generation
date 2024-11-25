@@ -1,0 +1,131 @@
+######################################################################################################################
+
+>sort
+__________________
+
+DESCRIPTION
+       Write sorted concatenation of all FILE(s) to standard output.
+
+__________________
+
+Version History:    sort (GNU coreutils) 8.32
+__________________
+
+Example: 
+	>sort Examples.sh
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		
+	cat ToRun.txt # print the final output
+	curCommand="$1" # The Target Command to get an example on it
+	        echo "$($curCommand cpp)" >> ToRun.txt # adding the Example EXECUTION to the file to be sent to $curCommand.txt manual
+	        echo "$($curCommand Examples.sh)" >> ToRun.txt # adding the Example EXECUTION to the file to be sent to $curCommand.txt manual
+	        echo "$($curCommand Examples.sh)" >> ToRun.txt # adding the Example EXECUTION to the file to be sent to $curCommand.txt manual
+	        echo "$($curCommand man)" >> ToRun.txt # adding the Example EXECUTION to the file to be sent to $curCommand.txt manual
+	        echo "$($curCommand This is an example on echo command)" >> ToRun.txt # adding the Example EXECUTION to the file to be sent to $curCommand.txt manual
+		echo "$($curCommand)" >> ToRun.txt  # adding the Example EXECUTION to the file to be sent to $curCommand.txt manual
+		echo "$($curCommand)" >> ToRun.txt # adding the Example EXECUTION to the file to be sent to $curCommand.txt manual
+	        echo "$($curCommand)" >> ToRun.txt # adding the Example EXECUTION to the file to be sent to $curCommand.txt manual
+	        echo "$($curCommand -t)" >> ToRun.txt # adding the Example EXECUTION to the file to be sent to $curCommand.txt manual
+	        echo "$($curCommand whatis)" >> ToRun.txt # adding the Example EXECUTION to the file to be sent to $curCommand.txt manual
+	        echo "$(compgen -c | grep $curCommand)" >> ToRun.txt # adding the Example EXECUTION to the file to be sent to $curCommand.txt manual
+	        echo ">$curCommand 'Ali' = 'ali'" >> ToRun.txt # adding the Example Form the file to be sent to $curCommand.txt manual
+	        echo ">$curCommand AppOn_rm.txt" >> ToRun.txt # adding the Example Form the file to be sent to $curCommand.txt manual
+	        echo ">$curCommand AppOnTouch.txt" >> ToRun.txt # adding the Example Form the file to be sent to $curCommand.txt manual
+	        echo ">$curCommand cpp" >> ToRun.txt # adding the Example Form the file to be sent to $curCommand.txt manual
+	        echo ">$curCommand Examples.sh ex.sh" >> ToRun.txt # adding the Example Form the file to be sent to $curCommand.txt manual
+	        echo ">$curCommand Examples.sh" >> ToRun.txt # adding the Example Form the file to be sent to $curCommand.txt manual
+	        echo ">$curCommand Examples.sh" >> ToRun.txt # adding the Example Form the file to be sent to $curCommand.txt manual
+	        echo ">$curCommand File1.txt File2.txt" >> ToRun.txt # adding the Example Form the file to be sent to $curCommand.txt manual
+	        echo ">$curCommand File1.txt File2.txt" >> ToRun.txt # adding the Example Form the file to be sent to $curCommand.txt manual
+	        echo ">$curCommand man" >> ToRun.txt # adding the Example Form the file to be sent to $curCommand.txt manual
+	        echo ">$curCommand This is an example on echo command" >> ToRun.txt # adding the Example Form the file to be sent to $curCommand.txt manual
+		echo ">$curCommand" >> ToRun.txt # adding the Example Form the file to be sent to $curCommand.txt manual
+		echo ">$curCommand" >> ToRun.txt # adding the Example Form the file to be sent to $curCommand.txt manual
+	        echo ">$curCommand" >> ToRun.txt # adding the Example Form the file to be sent to $curCommand.txt manual
+	        echo ">$curCommand -t" >> ToRun.txt # adding the Example Form the file to be sent to $curCommand.txt manual
+	        echo ">$curCommand whatis" >> ToRun.txt # adding the Example Form the file to be sent to $curCommand.txt manual
+	        echo "$(echo This is an Example on cut command | ($curCommand -d ' ' -f1))" >> ToRun.txt # adding the Example EXECUTION to the file to be sent to $curCommand.txt manual
+	        echo "$(find . -name Examples.sh -print)" >> ToRun.txt # adding the Example EXECUTION to the file to be sent to $curCommand.txt manual
+	        echo "A new text File will be created in current directory" >> ToRun.txt
+	        echo ">compgen -c | grep '$curCommand' " >> ToRun.txt # adding the Example Form the file to be sent to $curCommand.txt manual
+	        echo "(Data of File1.txt Will be copied to File2.txt)" > ToRun.txt # adding the Example EXPLAINATION to the file to be sent to $curCommand.txt manual
+	        echo -e "$($curCommand 'Ali' = 'ali') $?
+" >> ToRun.txt # adding the Example EXECUTION to the file to be sent to $curCommand.txt manual
+	        echo ">echo This is an Example on cut command | $curCommand -d ' ' -f1 " >> ToRun.txt # adding the Example Form the file to be sent to $curCommand.txt manual
+	        echo ">echo This is an Example on tr command: | $curCommand 'e' 'X'" >> ToRun.txt
+	        echo "(ex.txt will be as a pointer to Examples.sh)" >> ToRun.txt # adding the Example EXPLAINATION to the file to be sent to $curCommand.txt manual
+	        echo "File1.txt will be renamed to File2.txt" >> ToRun.txt
+	        echo ">find . -name Examples.sh -print" >> ToRun.txt # adding the Example Form the file to be sent to $curCommand.txt manual
+	echo -n "" > ToRun.txt # empty the text file
+	        echo "target text file will be deleted" >> ToRun.txt
+		echo "This is an Example on tr command:" | tr 'e' 'X' >> ToRun.txt # adding the Example EXECUTION to the file to be sent to $curCommand.txt manual
+	elif [ "$curCommand" == "cp" ] # Example on cp command
+	elif [ "$curCommand" == "cut" ] # Example on cut command
+	elif [ "$curCommand" == "echo" ] # Example on echo command
+	elif [ "$curCommand" == "find" ] # Example on find command
+	elif [ "$curCommand" == "grep" ] # Example on grep command
+	elif [ "$curCommand" == "ln" ] # Example on ln command
+	elif [ "$curCommand" == "lspci" ] # Example lspci ls command
+	elif [ "$curCommand" == "man" ] # Example on man command
+	elif [ "$curCommand" == "mv" ] # Example on mv command
+	elif [ "$curCommand" == "ps" ] # Example on ps command
+	elif [ "$curCommand" == "rm" ] # Example on rm command
+	elif [ "$curCommand" == "sort" ] # Example on sort command
+	elif [ "$curCommand" == "test" ] # Example on test command
+	elif [ "$curCommand" == "touch" ] # Example on touch command
+	elif [ "$curCommand" == "tr" ] # Example on tr command
+	elif [ "$curCommand" == "wc" ] # Example on wc command
+	elif [ "$curCommand" == "whatis" ] # Example on whatis command
+	elif [ "$curCommand" == "which" ] # Example on which command
+	elif [ "$curCommand" == "who" ] # Example on who command
+	fi
+	if [ "$curCommand" == "ls" ] # Example on ls command
+	# In This Script, Generated Examples will be included to be used in Main.sh and Verify.sh scripts 
+	sed -i -e 's/^/	/' ToRun.txt # adding a Tab to the start of each line for more beautiful form
+	then
+	then
+	then
+	then
+	then
+	then
+	then
+	then
+	then
+	then
+	then
+	then
+	then
+	then
+	then
+	then
+	then
+	then
+	then
+	then
+	touch ToRun.txt # The text file to be (returned) after the geneation.
+
+__________________
+
+Related Commands:          sort,tsort,apt-sortpkgs,sort,tsort,apt-sortpkgs,
+__________________
+

@@ -1,0 +1,54 @@
+######################################################################################################################
+
+>ls
+__________________
+
+DESCRIPTION
+       List information about the FILEs (the current directory by default).  Sort entries alphabetically if none of -cftuvSUX nor --sort is specified.
+
+__________________
+
+Version History:    ls (GNU coreutils) 8.32
+__________________
+
+Example: 
+	>ls
+	cfile
+	cp.txt
+	cut.txt
+	echo.txt
+	Examples.sh
+	find.txt
+	grep.txt
+	ln.txt
+	lspci.txt
+	ls.txt
+	man.txt
+	mv.txt
+	PROJECT_1.sh
+	ps.txt
+	Recommendation.sh
+	Related.sh
+	rm.txt
+	search.sh
+	sed.txt
+	sort.txt
+	test.txt
+	tmp
+	tmp1
+	tmp2
+	tmp.bak
+	ToRun.txt
+	touch.txt
+	tr.txt
+	VerifyExample.sh
+	verify.sh
+	wc.txt
+	whatis.txt
+	who.txt
+
+__________________
+
+Related Commands:          else,false,alsa,lspcmcia,alsabat-test,update-shells,alsa-info,alsactl,lsmod,lsb_release,tclsh8.6,alsaloop,lsns,lslogins,alsamixer,ntfsls,lsattr,hp-levels,lshw,false,lsof,lspgpot,alsatplg,xlsfonts,systemd-cgls,start-pulseaudio-x11,grub-menulst2cfg,xlsatoms,lsusb,zipdetails,alsabat,dpkg-gensymbols,ls,enchant-lsmod-2,alsaucm,lsinitramfs,lslocks,md5sum.textutils,xlsclients,lsmem,which.debianutils,lsblk,lspci,lsmod,tclsh,pulseaudio,lscpu,lsipc,alsa,lspcmcia,alsabat-test,update-shells,alsa-info,alsactl,lsmod,lsb_release,tclsh8.6,alsaloop,lsns,lslogins,alsamixer,ntfsls,lsattr,hp-levels,lshw,false,lsof,lspgpot,alsatplg,xlsfonts,systemd-cgls,start-pulseaudio-x11,grub-menulst2cfg,xlsatoms,lsusb,zipdetails,alsabat,dpkg-gensymbols,ls,enchant-lsmod-2,alsaucm,lsinitramfs,lslocks,md5sum.textutils,xlsclients,lsmem,which.debianutils,lsblk,lspci,lsmod,tclsh,pulseaudio,lscpu,lsipc,
+__________________
+
