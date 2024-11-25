@@ -1,5 +1,4 @@
 # Automated Linux/Unix Command Manual Generation
-# ==============================================
 This project automates the creation and verification of a manual for Linux/Unix commands. The goal is to streamline the documentation process, ensuring consistency and efficiency while adhering to the provided CISCO template structure.
 
 ## Features
