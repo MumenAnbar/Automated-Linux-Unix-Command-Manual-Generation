@@ -1,0 +1,45 @@
+<Manuals><grep><Description>       grep  searches  for  PATTERNS  in  each  FILE.  PATTERNS is one or more
+       patterns separated by newline characters, and  grep  prints  each  line
+       that  matches a pattern.  Typically PATTERNS should be quoted when grep
+       is used in a shell command.</Description><Version_History>(GNU grep) 3.7</Version_History><Example>compgen -c | grep grep
+lzfgrep
+lzgrep
+xzegrep
+zgrep
+zfgrep
+zstdgrep
+zegrep
+bzegrep
+fgrep
+grep
+zipgrep
+ptargrep
+bzgrep
+egrep
+rgrep
+xzgrep
+lzegrep
+xzfgrep
+pgrep
+bzfgrep
+lzfgrep
+lzgrep
+xzegrep
+zgrep
+zfgrep
+zstdgrep
+zegrep
+bzegrep
+fgrep
+grep
+zipgrep
+ptargrep
+bzgrep
+egrep
+rgrep
+xzgrep
+lzegrep
+xzfgrep
+pgrep
+bzfgrep
+</Example><Related_Commands>lzfgrep,lzgrep,xzegrep,zgrep,zfgrep,zstdgrep,zegrep,bzegrep,fgrep,grep,zipgrep,ptargrep,bzgrep,egrep,rgrep,xzgrep,lzegrep,xzfgrep,pgrep,bzfgrep,lzfgrep,lzgrep,xzegrep,zgrep,zfgrep,zstdgrep,zegrep,bzegrep,fgrep,grep,zipgrep,ptargrep,bzgrep,egrep,rgrep,xzgrep,lzegrep,xzfgrep,pgrep,bzfgrep,</Related_Commands></grep></Manuals>

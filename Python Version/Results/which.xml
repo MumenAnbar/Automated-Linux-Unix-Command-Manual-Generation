@@ -1,0 +1,7 @@
+<Manuals><which><Description>       which returns the pathnames of the files (or links) which would be exe&#8208;
+       cuted in the current environment, had its arguments been given as  com&#8208;
+       mands  in a strictly POSIX-conformant shell.  It does this by searching
+       the PATH for executable files matching the names of the arguments.   It
+       does not canonicalize path names.</Description><Version_History>Illegal option --</Version_History><Example>which cpp
+/usr/bin/cpp
+</Example><Related_Commands>which,which.debianutils,which,which.debianutils,</Related_Commands></which></Manuals>

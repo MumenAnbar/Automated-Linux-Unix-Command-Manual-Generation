@@ -1,0 +1,5 @@
+<Manuals><test><Description>       Exit with the status determined by EXPRESSION.</Description><Version_History /><Example>echo -e "$(test 'Ali' = 'ali') $?
+"
+ 1
+
+</Example><Related_Commands>test,alsabat-test,l2test,hp-testpage,rctest,gst-tester-1.0,test,grub-fstest,speaker-test,cupstestppd,alsabat-test,l2test,hp-testpage,rctest,gst-tester-1.0,test,grub-fstest,speaker-test,cupstestppd,</Related_Commands></test></Manuals>

@@ -1,0 +1,3 @@
+<Manuals><cp><Description>       Copy SOURCE to DEST, or multiple SOURCE(s) to DIRECTORY.</Description><Version_History>(GNU coreutils) 8.32</Version_History><Example>cp File1.txt File2.txt
+(Data of File1.txt Will be copied to File2.txt)
+</Example><Related_Commands>ntfscp,chcpu,acpid,cppw,cpgr,spa-acp-tool,cpan5.34-x86_64-linux-gnu,cpan,faked-tcp,pbmtomacp,fakeroot-tcp,acpi_listen,cpio,scp-dbus-service,cp,macptopbm,x86_64-linux-gnu-cpp,cpp,tcpdump,x86_64-linux-gnu-cpp-11,rcp,scp,lscpu,cpp-11,ntfscp,chcpu,acpid,cppw,cpgr,spa-acp-tool,cpan5.34-x86_64-linux-gnu,cpan,faked-tcp,pbmtomacp,fakeroot-tcp,acpi_listen,cpio,scp-dbus-service,cp,macptopbm,x86_64-linux-gnu-cpp,cpp,tcpdump,x86_64-linux-gnu-cpp-11,rcp,scp,lscpu,cpp-11,</Related_Commands></cp></Manuals>

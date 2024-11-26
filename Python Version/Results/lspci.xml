@@ -1,0 +1,26 @@
+<Manuals><lspci><Description>       lspci  is  a  utility for displaying information about PCI buses in the
+       system and devices connected to them.</Description><Version_History>version 3.7.0</Version_History><Example>lspci -t
+-+-[10000:e0]---06.0-[e1]----00.0
+ \-[0000:00]-+-00.0
+             +-01.0-[01]--+-00.0
+             |            \-00.1
+             +-02.0
+             +-04.0
+             +-06.0
+             +-07.0-[02-2c]--
+             +-08.0
+             +-0a.0
+             +-0d.0
+             +-0d.2
+             +-0e.0
+             +-14.0
+             +-14.2
+             +-15.0
+             +-16.0
+             +-1c.0-[2d]----00.0
+             +-1d.0-[2e]----00.0
+             +-1f.0
+             +-1f.3
+             +-1f.4
+             \-1f.5
+</Example><Related_Commands>lspci,lspci,</Related_Commands></lspci></Manuals>

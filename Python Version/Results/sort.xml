@@ -1,0 +1,74 @@
+<Manuals><sort><Description>       Write sorted concatenation of all FILE(s) to standard output.</Description><Version_History>(GNU coreutils) 8.32</Version_History><Example>bash -c 'sort main.py'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+app = CommandManualGeneratorGUI(root)
+class CommandManual:
+class CommandManualGenerator:
+            commands = file.readlines()
+            cur_xml_file.create_xml_files()
+            cur_xml_file = XmlCreator.XmlSerializer(i)
+    def examples(self, value):
+    def generate_manuals(self):
+    def get_command(self):
+    def get_description(self):
+    def get_examples(self):
+    def get_manuals(self):
+    def get_related_commands(self):
+    def get_version_history(self):
+    def get_xml_files_objects(self):
+    def __init__(self, command):
+    def __init__(self, input_file):
+    def set_description(self, value):
+    def set_related_commands(self, value):
+    def set_version_history(self, value):
+        for command in commands:
+        for i in self._manuals:
+from interface import *
+import generator
+import XmlCreator
+Manual1 = CommandManualGenerator("commands.txt")
+Manual1.generate_manuals()
+        return self._command
+        return self._description
+        return self._examples
+        return self._manuals
+        return self._related_commands
+        return self._version_history
+        return self._xml_files
+root.mainloop()
+root = tk.Tk()
+        self._command = command
+        self._description = generator.get_command_description(command.strip())
+        self._description = value
+        self._examples = generator.get_command_example(command.strip())
+        self._examples = value
+        self.input_file = input_file
+        self._manuals = []
+            self._manuals.append(CommandManual(command.strip()))
+        self._related_commands = generator.get_command_releated_commands(command.strip())
+        self._related_commands = value
+        self._version_history = generator.get_command_version(command.strip())
+         self._version_history = value
+        self._xml_files = []
+            self._xml_files.append(cur_xml_file)
+        with open(self.input_file, 'r') as file:
+</Example><Related_Commands>sort,tsort,apt-sortpkgs,sort,tsort,apt-sortpkgs,</Related_Commands></sort></Manuals>

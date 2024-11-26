@@ -1,0 +1,5 @@
+<Manuals><whatis><Description>       Each manual page has a short description available within  it.   whatis
+       searches  the  manual  page names and displays the manual page descrip&#8208;
+       tions of any name matched.</Description><Version_History>2.10.2</Version_History><Example>whatis whatis
+whatis (1)           - display one-line manual page descriptions
+</Example><Related_Commands>whatis,whatis,</Related_Commands></whatis></Manuals>

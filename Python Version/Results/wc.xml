@@ -1,0 +1,5 @@
+<Manuals><wc><Description>       Print newline, word, and byte counts for each FILE, and a total line if
+       more than one FILE is specified.  A word is a non-zero-length  sequence
+       of characters delimited by white space.</Description><Version_History>(GNU coreutils) 8.32</Version_History><Example>wc main.py
+  72  129 1934 main.py
+</Example><Related_Commands>iwconfig,pwck,hwclock,shadowconfig,pwconv,wc,showconsolefont,iwconfig,pwck,hwclock,shadowconfig,pwconv,wc,showconsolefont,</Related_Commands></wc></Manuals>

@@ -1,0 +1,9 @@
+<Manuals><sed><Description>       Sed  is a stream editor.  A stream editor is used to perform basic text
+       transformations on an input stream (a file or input from  a  pipeline).
+       While  in  some  ways similar to an editor which permits scripted edits
+       (such as ed), sed works by making only one pass over the input(s),  and
+       is consequently more efficient.  But it is sed's ability to filter text
+       in a pipeline which particularly distinguishes it from other  types  of
+       editors.</Description><Version_History>(GNU sed) 4.8</Version_History><Example>sed '/abc/d' filename.txt
+Substrings of abc in filename.txt will be deleted
+</Example><Related_Commands>cups-browsed,sed,cups-browsed,sed,</Related_Commands></sed></Manuals>
